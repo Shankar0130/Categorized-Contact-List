@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_category"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/category" />
+
+    <item
+        android:id="@+id/navigation_contacts"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="@string/contacts" />
+
+    <item
+        android:id="@+id/navigation_calls"
+        android:icon="@drawable/ic_call_black_24dp"
+        android:title="@string/call_log" />
+
+</menu>
